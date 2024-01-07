@@ -1,0 +1,53 @@
+
+body{
+    background-image: url(temp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:50px;
+    height: 250px;
+    display: inline-flex;
+} 
+#convert {
+    background-color:black;
+    color:whitesmoke;
+    padding: 20px;
+    border-color: wheat;
+    border-radius: 1.5px;
+  }
+  #convert:hover {
+    background-color: brown;
+    color:aqua
+  }
+  #clear {
+    background-color:brown;
+    color:aquamarine;
+  }
+  #clear:hover {
+    background-color: pink;
+    color:yellowgreen;
+  }
+  h1 {
+    font-family:Arial, ;
+    color:black;
+    margin:0%;
+    margin-right: 100%;    
+  }
+  h1:hover
+  {
+    color:blue;
+  }
+  input {
+    padding: 10px;
+    margin-top: 10%;
+    width: 300px;
+    color: palevioletred;
+    font-size: medium;
+    font-family:'Segoe UI';
+    margin-right: 40%;
+    background-color:whitesmoke;
+  }
+button {
+    padding: 20px;
+    margin: 10px;
+    font-size:small;
+    }
